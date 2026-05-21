@@ -1,0 +1,21 @@
+# Brownie Todo
+
+A clean and simple todo application with a warm brown aesthetic. Organize your tasks effortlessly.
+
+## Features
+
+- **Add tasks**: Type a task and press Enter or click Add
+- **Complete tasks**: Check the checkbox to mark tasks as done
+- **Delete tasks**: Hover over a task and click the X button to remove it
+- **Filter tasks**: Switch between All, Active, and Completed views
+- **Clear completed**: Remove all completed tasks at once
+- **Task count**: See how many active tasks remain
+
+## How it works
+
+1. Type your task in the input field at the top
+2. Press Enter or click the Add button to create the task
+3. Click the checkbox next to a task to toggle its completion status
+4. Use the filter tabs (All, Active, Completed) to view specific task groups
+5. Hover over a task to reveal the delete button
+6. Click "Clear completed" to remove all finished tasks
