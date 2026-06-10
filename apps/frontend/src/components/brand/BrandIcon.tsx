@@ -18,7 +18,7 @@ export function BrandIcon({
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        background: 'linear-gradient(135deg, #8B6F47 0%, #6B4E31 100%)',
+        background: 'linear-gradient(135deg, #9B5E2A 0%, #7A4520 100%)',
         borderRadius: fit ? 14 : Math.max(8, Math.round(sizePx * 0.32)),
         padding: fit ? 5 : Math.max(3, Math.round(sizePx * 0.16)),
       }}
